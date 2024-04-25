@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/artisths/artisths.iml" filepath="$PROJECT_DIR$/artisths/artisths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customerhs/customerhs.iml" filepath="$PROJECT_DIR$/customerhs/customerhs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vintage-storehs/vintage-storehs.iml" filepath="$PROJECT_DIR$/vintage-storehs/vintage-storehs.iml" />
+    </modules>
+  </component>
+</project>
